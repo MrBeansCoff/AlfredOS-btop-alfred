@@ -1,4 +1,4 @@
-![AlfredOS](Img/alfred-logos/alfr.png)
+![AlfredOS](alfred-logos/alfr.png)
 
 
 
